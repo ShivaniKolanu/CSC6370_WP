@@ -1,0 +1,21 @@
+code {
+    color: darkblue;
+    border: 1px solid black;
+    font-family: Comic Sans MS;
+}
+
+body {
+    background-color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.divtag, .idtag, .styleattribs {
+    border: 1px solid black;
+    background-color: lightgreen;
+}
+
+.spantag, .classtag{
+    border: 1px solid black;
+    background-color: lightblue;
+}
+
