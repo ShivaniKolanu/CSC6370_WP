@@ -1,0 +1,34 @@
+header{
+    text-align: center;
+}
+
+
+main {
+    display: flex;
+}
+
+main .left{
+
+    flex-basis: 33%;
+    padding: 2em;
+    margin:2em;
+    border: 4px dashed red;
+}
+
+main .right{
+
+    flex-basis: 67%;
+    padding:2em;
+    margin:2em;
+    border: 4px dashed red;
+
+}
+
+img {
+    float:right;
+    width:200px;
+}
+
+#nowrap{
+    clear: both;
+}
