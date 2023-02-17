@@ -1,0 +1,202 @@
+body{
+    background-image:url('img/img2.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    resize: none;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    /* color:blue; */
+}
+
+.heading{
+    /* font-family: Georgia, 'Times New Roman', Times, serif; */
+    /* text-align: center; */
+    margin-left: 55%;
+    resize: none;
+}
+
+
+.myname {
+    float: left;
+    width: 70%;
+    /* margin-left: 40%; */
+    margin-bottom: 50px;
+}
+
+.myname .gsu{
+    text-decoration: none;
+    margin-left: 30%;
+    font-size: large;
+
+}
+
+.myname .gsu:hover {
+    color: orange;
+    background-color:cadetblue;
+}
+
+.myname .github{
+    text-decoration: none;
+    margin-left: 15%; 
+    font-size: large;
+
+}
+
+.myname .github:hover {
+    color: orange;
+    background-color:cadetblue;
+}
+
+.myname .linkedin{
+    text-decoration: none;
+    margin-left: 15%;
+    font-size: large;
+
+}
+
+.myname .linkedin:hover {
+    color: orange;
+    background-color:cadetblue;
+}
+
+.headshot{
+    float:right;
+
+    /* text-align: center; */
+    font-style: italic;
+    font-weight:bolder;
+    width: 30%;
+    margin-bottom: 100px;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+    height: 20%;
+    border-radius: 20%;
+
+}
+
+
+
+/* .table{
+    margin-top: 10%;
+} */
+
+
+
+.hobbies table{
+    
+    float : left;
+    background-color:lightsalmon; 
+    border: 1px solid black;
+    /* border-collapse:collapse; */
+    background-color:darkgrey;
+    opacity: 0.9;
+    color: black;
+    padding:5px;
+    border-radius: 10px;
+    border-collapse: separate !important;
+    margin-left: 5%;
+    
+}
+
+/* .hobbies table{
+    border-radius: 5%;
+} */
+
+
+.edu  {
+    /* float:  right; */
+    border: 1px solid black;
+    
+    /* border-collapse:collapse; */
+    background-color:darkgrey;
+    opacity: 0.9;
+    color: black;
+    padding:5px;
+    border-radius: 10px;
+    border-collapse: separate !important;
+    margin-bottom: 15%;
+    margin-left: 50%;
+    width: 100%;
+
+}
+
+
+.edu a{
+    text-decoration: none;
+    /* background-color: coral; */
+    color:blue;
+    font-size: large;
+    margin-left: 35%;
+}
+.interests {
+    /* float:  right; */
+    border: 1px solid black;
+    
+    /* border-collapse:collapse; */
+    background-color:darkgrey;
+    opacity: 0.9;
+    color: black;
+    padding:5px;
+    border-radius: 10px;
+    border-collapse: separate !important;
+    margin-left: 50%;
+    width: 100%;
+    margin-bottom: 5%;
+
+}
+.interests a{
+    text-decoration: none;
+}
+
+.three {
+    float:right;
+}
+
+
+.assignments table {
+    border: 1px solid black;
+    text-decoration: none;
+    opacity: 0.9;
+    color: black;
+    padding:5px;
+    border-radius: 10px;
+    border-collapse: separate !important;
+    margin-top: 10%;
+    width: 50%;
+    margin-left: 25%;
+    
+   
+    
+}
+
+.assignments th,td {
+    border-radius: 1px;
+
+    text-align: center;
+    text-decoration: none;
+}
+
+.assignments a {
+    text-decoration: none;
+    font-size: medium;
+    color:black;
+}
+
+.assignments a:hover {
+    font-size: medium;
+    font-weight: bolder;
+}
+.assignments tr:nth-child(even) {
+    background-color:aquamarine;
+  }
+
+.assignments tr:nth-child(odd) {
+    background-color:coral;
+  }
+.assignments h3 {
+    float: right;
+    font-size: medium;
+}
