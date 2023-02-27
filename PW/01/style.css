@@ -1,3 +1,19 @@
+/* 
+
+=======================================================================
+***********************************************************************
+Author : Shivani Kolanu, Srujan Kumar
+Assignment : Project Assignment 1
+Course : Web Programming
+Project Name : TrueCars
+Team Name : Team Binary
+Assignment Description : Creating a website for an idea of our own using HTML & CSS.
+Filename : style.css
+
+************************************************************************
+======================================================================== */
+ 
+
 body {
     font-family: Comic Sans MS;
     background-color: aquamarine;
@@ -168,6 +184,10 @@ body {
     right: 0;
   }
 
+  .main-img li{
+    color: white;
+  }
+
 
 #about-content{
     background-color: grey;
@@ -237,7 +257,7 @@ body {
     margin-top: 2%;
     margin-left: 2%;
     border-radius: 20px;
-    transition: transform .2s;
+    transition: transform .6s;
 
 }
 
@@ -297,7 +317,7 @@ body {
 .contact {
     background-color: grey;
     width: 101%;
-    height: 50%;
+    height: 45%;
     color: white;
     margin-left: -0.5%;
     font-family: 'Times New Roman', Times, serif;
