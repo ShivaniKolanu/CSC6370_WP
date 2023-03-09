@@ -13,7 +13,8 @@ Details about the assignments are as below :
 **Classwork 1** - Tables in HTML <br>
 **Classwork 2** - CSS Basics <br>
 **Classwork 3** - CSS (Mostly Positioning) <br>
-**Classwork 4** - Basics of PHP
+**Classwork 4** - Basics of PHP <br>
+**Classwork 5** - PHP Forms Concept
 
 
 
