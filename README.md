@@ -20,6 +20,7 @@ Details about the assignments are as below :
 
 **Homework 1** - Creation of a Personalized Home page for myself using HTML & CSS only.<br>
 **Homework 2** - Recreation of a page which was given by professor.
+**Homework 3** - This assignment is about making a simple multi-page "online dating" site that processes HTML forms with PHP. 
 
 
 
