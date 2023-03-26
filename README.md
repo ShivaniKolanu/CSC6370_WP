@@ -25,4 +25,5 @@ Details about the assignments are as below :
 
 
 **Project 1** - I've created a website for the used cars sale where customers can check the details of the used cars and their prices and can buy in store if they like it. Used pure HTML & CSS as instructed by professor.
+
 **Project 2** - This is a project to test our skills on HTML, CSS and mainly PHP. I've created the game "Who want's to be a Millionaire?" and used pure HTML, CSS and PHP as instructed by professor.
