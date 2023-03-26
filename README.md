@@ -19,11 +19,10 @@ Details about the assignments are as below :
 
 
 **Homework 1** - Creation of a Personalized Home page for myself using HTML & CSS only.<br>
-**Homework 2** - Recreation of a page which was given by professor.
+**Homework 2** - Recreation of a page which was given by professor.<br>
 **Homework 3** - This assignment is about making a simple multi-page "online dating" site that processes HTML forms with PHP. 
 
 
 
-**Project 1** - I've created a website for the used cars sale where customers can check the details of the used cars and their prices and can buy in store if they like it. Used pure HTML & CSS as instructed by professor.
-
+**Project 1** - I've created a website for the used cars sale where customers can check the details of the used cars and their prices and can buy in store if they like it. Used pure HTML & CSS as instructed by professor.<br>
 **Project 2** - This is a project to test our skills on HTML, CSS and mainly PHP. I've created the game "Who want's to be a Millionaire?" and used pure HTML, CSS and PHP as instructed by professor.
