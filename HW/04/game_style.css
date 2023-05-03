@@ -1,0 +1,188 @@
+/* // =======================================================================
+// ***********************************************************************
+// Author : Shivani Kolanu
+// Assignment : Homework Assignment 4
+// Course : Web Programming
+// Assignment Description : 1st Part is using js to display employee salaries.
+//                          2nd Part is using js to create a memory game with images.
+// Filename : game_style.css
+// ************************************************************************
+// ======================================================================== */
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #f2f2f2;
+}
+
+.head {
+  max-width: 480px;
+  border: 2px solid #a6a6a6;
+  margin: auto;
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 20px;
+  font-family: Comic Sans MS;
+  color: green;
+}
+
+.score {
+  margin-top: 10px;
+}
+
+.container {
+  max-width: 900px;
+  display: grid;
+  grid-template-columns: repeat(3, auto);
+  gap: 0.5rem;
+  margin: auto;
+  padding: 20px;
+}
+.container-10 {
+  max-width: 900px;
+  display: grid;
+  grid-template-columns: repeat(3, auto);
+  gap: 0.5rem;
+  margin: auto;
+  padding: 20px;
+}
+
+.container-12 {
+  max-width: 900px;
+  display: grid;
+  grid-template-columns: repeat(3, auto);
+  gap: 0.5rem;
+  margin: auto;
+  padding: 20px;
+}
+
+.cell div {
+  height: 130px;
+  border-radius: 4px;
+}
+
+.cell {
+  position: relative;
+  cursor: pointer;
+}
+
+.front {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid green;
+  background-color: #f2f2f2;
+  transform: rotateY(90deg);
+}
+
+.back {
+  background-color: green;
+}
+
+img {
+  height: 100px;
+  width: 100px;
+}
+
+.flip {
+  transform: rotateY(0deg);
+}
+.match {
+  transform: rotateY(0deg);
+}
+
+.show {
+  transform: rotateY(0deg);
+}
+
+@media screen and (min-width: 770px) {
+  .head {
+    max-width: 500px;
+  }
+
+  .container {
+    grid-template-columns: repeat(4, auto);
+  }
+  .container-10 {
+    grid-template-columns: repeat(5, auto);
+  }
+  .container-12 {
+    grid-template-columns: repeat(6, auto);
+  }
+
+
+  .cell div {
+    height: 170px;
+  }
+}
+
+.type{
+  text-align: center;
+  margin-top: 5%;
+
+}
+
+.type a{
+  text-decoration: none;
+  border: 2px solid #a6a6a6;
+  border-radius: 5px;
+  padding:5px;
+  color: green;
+  background-color: #a6a6a6;
+
+}
+
+.type a:hover{
+  color: white;
+}
+
+.instructions{
+  /* text-align: center; */
+  margin-top: 2%;
+  border: 2px solid #a6a6a6;
+  border-radius:3px;
+  padding: 3px;
+  width: 50%;
+  font-family: Comic Sans MS;
+  margin-left: 25%;
+  color: green;
+  font-style: italic;
+}
+/* .timer{
+  float: left;
+} */
+
+.home a{
+  /* float: right; */
+  font-size: larger;
+  text-decoration: none;
+
+}
+
+.redirect a{
+	text-decoration: none;
+	border: 2px solid #a6a6a6;
+	border-radius: 5px;
+	padding:5px;
+	color: green;
+	background-color: #a6a6a6;
+  
+  }
+  
+.redirect a:hover{
+color: white;
+}
+.redirect{
+	text-align: center;
+	margin-top: 1%;
+  
+  }

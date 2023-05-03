@@ -1,0 +1,22 @@
+/* // =======================================================================
+// ***********************************************************************
+// Author : Shivani Kolanu
+// Assignment : Homework Assignment 4
+// Course : Web Programming
+// Assignment Description : 1st Part is using js to display employee salaries.
+//                          2nd Part is using js to create a memory game with images.
+// Filename : employee_style.js
+// ************************************************************************
+// ======================================================================== */
+
+.redirect a{
+
+    margin-top: 10%;
+    border: 3px solid green;
+    border-radius: 3px;
+    padding: 3px;
+    background-color: lightgreen;
+    text-decoration: none;
+
+
+}
