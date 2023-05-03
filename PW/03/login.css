@@ -1,0 +1,75 @@
+#login{
+    margin-top: -25px;
+    margin-left: 100px;
+    width: 50px;
+}
+#signup{
+    justify-content: center;
+    left: 430px;
+    top: 313px;
+    width: 500px;
+    position: absolute;
+    text-align: center;
+}
+#signup h1{
+    color: yellow;
+}
+input[type=text] {
+    width: 40%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: 3px solid #f8e175;
+    
+    border-radius: 20px;
+    background: #f1f1f1;
+  }
+input[type=password]{
+    width: 40%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: 3px solid #c7cb35;
+    
+    border-radius: 20px;
+    background: #f1f1f1;
+}
+input[type=password1]{
+    width: 40%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: 3px solid #b07cf1;
+    
+    border-radius: 20px;
+    background: #f1f1f1;
+}
+  
+  input[type=text]:focus, input[type=password]:focus {
+    background-color: #ddd;
+    outline: none;
+  }
+  
+  
+  
+  
+  button:hover {
+    opacity:5;
+  }
+  
+  
+  
+  .login {
+    padding: 14px 20px;
+    width: 30%;
+    color: black;
+    background-color: #fbbc05;
+    border-radius: 20px;
+    cursor: pointer;
+  }
+  a {
+    text-decoration: none;
+    color: red;
+}
+
+
